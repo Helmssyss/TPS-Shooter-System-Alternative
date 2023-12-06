@@ -16,6 +16,10 @@
 - [x] Drop/Equip Weapon.
 - [x] Sprint/Walk
 
-![Screenshot 2023-12-06 151644](https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/9b339395-7cda-4f29-987c-e66ce5c93bc7)
-![Screenshot 2023-12-06 151425](https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/5329192d-7470-43bb-b35c-846766af2f81)
-![Screenshot 2023-12-06 151548](https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/1527dadf-7db1-4ade-a1c5-156a77efdb4e)
+<img src="https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/9b339395-7cda-4f29-987c-e66ce5c93bc7" width=40% height=40%>
+<img src="https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/5329192d-7470-43bb-b35c-846766af2f81" width=40% height=40%>
+<img src="https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/1527dadf-7db1-4ade-a1c5-156a77efdb4e" width=40% height=40%>
+
+
+<img src="https://github.com/Helmssyss/SyncMagnet/assets/84701901/9ed310ae-9790-433c-a854-b8356c4d2dfa" width=30% height=30%>
+<img src="https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/1c006295-16b5-477e-af90-355117f347da" width=30% height=30%>

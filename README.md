@@ -16,6 +16,12 @@
 - [x] Drop/Equip Weapon.
 - [x] Sprint/Walk
 
+---
+-  My other repos:
+    - [FPS-TPS-Shooter-System | Intermediate-Advance](https://github.com/Helmssyss/FPTP-Shooter-System)
+    - [TPS-Shooter-System | Beginner](https://github.com/Helmssyss/TPS-Shooter-System)
+---
+
 <img src="https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/9b339395-7cda-4f29-987c-e66ce5c93bc7" width=40% height=40%>
 <img src="https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/5329192d-7470-43bb-b35c-846766af2f81" width=40% height=40%>
 <img src="https://github.com/Helmssyss/TPS-Shooter-System/assets/84701901/1527dadf-7db1-4ade-a1c5-156a77efdb4e" width=40% height=40%>
